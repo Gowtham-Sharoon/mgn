@@ -1,1 +1,1 @@
-chmod +x aws-replication-installer-init; sudo ./aws-replication-installer-init --region ap-south-1 --aws-access-key-id AKIAW5BDRK25AFJMIT6E --aws-secret-access-key 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 --no-prompt
+
